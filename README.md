@@ -1,5 +1,5 @@
-# S. Tritin Projects
-C++, Java and Android Developer. 
+# [Simon Tritin Projects](https://github.com/simonvar)
+C++, Java and Android Developer.
 Sometimes develop on PHP, JavaScript.
 
 ### Java
@@ -11,7 +11,15 @@ Sometimes develop on PHP, JavaScript.
 
 ### C/C++
 - [C Language](https://simonvar.github.io/c-language/)
-- [LETI works](https://github.com/simonvar/leti-programming)
+- [LETI student's works](https://github.com/simonvar/leti-programming)
 
-### Contact
+### Other cool projects
+- [PHP Site Engine](https://github.com/simonvar/online-store)
+- [And the Same Engine but another Site](https://github.com/simonvar/diplom-mohito)
+
+#### Contacts
+- [GitHub](https://github.com/simonvar)
 - Email: semavar3@gmail.com [send](mailto:semavar3@gmail.com)
+
+#### Thanks
+- [Dmitry Drobyshev](https://github.com/ItNoN) - all perfect CSS and HTML layouts
