@@ -13,9 +13,9 @@ Sometimes develop on PHP, JavaScript.
 - [C Language](https://simonvar.github.io/c-language/)
 - [LETI student's works](https://github.com/simonvar/leti-programming)
 
-### Other cool projects
+### Other Cool Projects
 - [PHP Site Engine](https://github.com/simonvar/online-store)
-- [And the Same Engine but another Site](https://github.com/simonvar/diplom-mohito)
+- [And the Same Engine but Another Site](https://github.com/simonvar/diplom-mohito)
 
 #### Contacts
 - [GitHub](https://github.com/simonvar)
