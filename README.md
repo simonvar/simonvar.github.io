@@ -8,6 +8,7 @@ Sometimes develop on PHP, JavaScript.
 
 ### Android
 - [GifLinks](https://github.com/simonvar/GifLinks)
+- [SmartCode](https://github.com/simonvar/SmartCode)
 
 ### C/C++
 - [C Language](https://simonvar.github.io/c-language/)
@@ -23,3 +24,4 @@ Sometimes develop on PHP, JavaScript.
 
 #### Thanks
 - [Dmitry Drobyshev](https://github.com/ItNoN) - all perfect CSS and HTML layouts
+- [Yaroslav Atroshenko](https://github.com/yaroslavok) - worked on SmartCode
