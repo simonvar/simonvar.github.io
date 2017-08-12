@@ -3,20 +3,19 @@ C++, Java and Android Developer.
 Sometimes develop on PHP, JavaScript.
 
 ### Java
-- [Meanders](https://github.com/simonvar/Meanders)
-- [Design Patterns](https://simonvar.github.io/JavaPatterns/)
+- [Meanders](https://github.com/simonvar/Meanders) - The problem of meanders. Solution on Java.
+- [Design Patterns](https://simonvar.github.io/JavaPatterns/) - Studying design patterns.
+
+### Kotlin 
+- [KotDo](https://github.com/simonvar/KotDo) - Simple Kotlin project with TornadoFX.
 
 ### Android
-- [GifLinks](https://github.com/simonvar/GifLinks)
+- [GifLinks](https://github.com/simonvar/GifLinks) - Android project, working with Giphy API using Retrofit.
 - [SmartCode](https://github.com/simonvar/SmartCode)
 
 ### C/C++
-- [C Language](https://simonvar.github.io/c-language/)
+- [C Language](https://simonvar.github.io/c-language/) - The C Programming Language. Exercices.
 - [LETI student's works](https://github.com/simonvar/leti-programming)
-
-### Other Cool Projects
-- [PHP Site Engine](https://github.com/simonvar/online-store)
-- [And the Same Engine but Another Site](https://github.com/simonvar/diplom-mohito)
 
 #### Contacts
 - [GitHub](https://github.com/simonvar)
