@@ -4,7 +4,8 @@ Sometimes develop on PHP, JavaScript.
 
 ### Java
 - [Meanders](https://github.com/simonvar/Meanders) - The problem of meanders. Solution on Java.
-- [Design Patterns](https://simonvar.github.io/JavaPatterns/) - Studying design patterns.
+- [Design Patterns](https://simonvar.github.io/JavaPatterns/) - Learning design patterns.
+- [Test-Driven Development](https://github.com/simonvar/TDDevelopment) - Learning TDD.
 
 ### Kotlin 
 - [KotDo](https://github.com/simonvar/KotDo) - Simple Kotlin project with TornadoFX.
