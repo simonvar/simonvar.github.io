@@ -2,25 +2,24 @@
 C++, Java and Android Developer.
 Sometimes develop on PHP, JavaScript.
 
-### Java
+## Projects
 - [Meanders](https://github.com/simonvar/Meanders) - The problem of meanders. Solution on Java.
+- [KotDo](https://github.com/simonvar/KotDo) - Simple Kotlin project with TornadoFX.
+- [GifLinks](https://github.com/simonvar/GifLinks) - Android project, working with Giphy API using Retrofit.
+- [SmartCode](https://github.com/simonvar/SmartCode) - _Work In Progress_
+- [JetReddit](https://github.com/simonvar/JetReddit) - _Work In Progress_
+
+## Learning
 - [Design Patterns](https://simonvar.github.io/JavaPatterns/) - Learning design patterns.
 - [Test-Driven Development](https://github.com/simonvar/TDDevelopment) - Learning TDD.
-
-### Kotlin 
-- [KotDo](https://github.com/simonvar/KotDo) - Simple Kotlin project with TornadoFX.
-
-### Android
-- [GifLinks](https://github.com/simonvar/GifLinks) - Android project, working with Giphy API using Retrofit.
-- [SmartCode](https://github.com/simonvar/SmartCode)
-
-### C/C++
 - [C Language](https://simonvar.github.io/c-language/) - The C Programming Language. Exercices.
-- [LETI student's works](https://github.com/simonvar/leti-programming)
+- [LETI student's works](https://github.com/simonvar/leti-programming) - Laboratory and course work.
+
 
 #### Contacts
 - [GitHub](https://github.com/simonvar)
-- Email: semavar3@gmail.com [send](mailto:semavar3@gmail.com)
+- [Telegram](https://web.telegram.org/#/im?p=@stritin) @stritin 
+- [Email](mailto:semavar3@gmail.com) semavar3@gmail.com 
 
 #### Thanks
 - [Dmitry Drobyshev](https://github.com/ItNoN) - all perfect CSS and HTML layouts
