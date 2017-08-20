@@ -1,6 +1,6 @@
-# [Simon Tritin Projects](https://github.com/simonvar)
-C++, Java and Android Developer.
-Sometimes develop on PHP, JavaScript.
+# [Simon V. Projects](https://github.com/simonvar)
+Java and Android Developer. 
+Sometimes develop on Kotlin, JavaScript.
 
 ## Projects
 - [Meanders](https://github.com/simonvar/Meanders) - The problem of meanders. Solution on Java.
