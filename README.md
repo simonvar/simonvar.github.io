@@ -1,4 +1,4 @@
-# [Simon V. Projects](https://github.com/simonvar)
+# [Simon V.](https://github.com/simonvar)
 Java and Android Developer. 
 Sometimes develop on Kotlin, JavaScript.
 
