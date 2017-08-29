@@ -1,11 +1,12 @@
 # [Simon V.](https://github.com/simonvar)
-Java and Android Developer. 
+#### Java and Android Developer.   
 Sometimes develop on Kotlin, JavaScript.
 
 ## Projects
 - [Meanders](https://github.com/simonvar/Meanders) - The problem of meanders. Solution on Java.
 - [KotDo](https://github.com/simonvar/KotDo) - Simple Kotlin project with TornadoFX.
 - [GifLinks](https://github.com/simonvar/GifLinks) - Android project, working with Giphy API using Retrofit.
+- [MVC Store](https://github.com/simonvar/mvc-store) - MVC online store 
 - [SmartCode](https://github.com/simonvar/SmartCode) - _Work In Progress_
 - [JetReddit](https://github.com/simonvar/JetReddit) - _Work In Progress_
 
