@@ -3,6 +3,7 @@
 Sometimes develop on C, C++, Kotlin, JavaScript.
 
 ## Projects
+- [ReddIn](https://github.com/simonvar/GifLinks) - Android client app for Reddit
 - [GifLinks](https://github.com/simonvar/GifLinks) - Android project, working with Giphy API using Retrofit. 
 - [KotDo](https://github.com/simonvar/KotDo) - Simple Kotlin project with TornadoFX. 
 - [MVC Store](https://github.com/simonvar/mvc-store) - PHP MVC online store 
