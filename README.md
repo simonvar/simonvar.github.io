@@ -1,9 +1,10 @@
 # [Simon V.](https://github.com/simonvar)
-#### Java and Android Developer.   
-Sometimes develop on C, C++, Kotlin, JavaScript.
+#### Android Developer.   
+Develop on Java, Kotlin, C, C++.
 
 ## Projects
-- [ReddIn](https://github.com/simonvar/GifLinks) - Android client app for Reddit
+- [NumberSystem](https://github.com/simonvar/NumberSystem) - Number system converter [Google Play](https://goo.gl/pBhqqk)
+- [ReddIn](https://github.com/simonvar/ReddIn) - Android client app for Reddit
 - [GifLinks](https://github.com/simonvar/GifLinks) - Android project, working with Giphy API using Retrofit. 
 - [KotDo](https://github.com/simonvar/KotDo) - Simple Kotlin project with TornadoFX. 
 - [MVC Store](https://github.com/simonvar/mvc-store) - PHP MVC online store 
