@@ -1,25 +1,11 @@
 # [Simon V.](https://github.com/simonvar)
-#### Android Developer.   
-Develop on Java, Kotlin, C, C++.
+#### Android Developer & Embedded Developer.   
+Develop on Java, Kotlin, C.
 
-## Projects
-- [NumberSystem](https://github.com/simonvar/NumberSystem) - Number system converter [Google Play](https://goo.gl/pBhqqk)
-- [ReddIn](https://github.com/simonvar/ReddIn) - Android client app for Reddit
-- [GifLinks](https://github.com/simonvar/GifLinks) - Android project, working with Giphy API using Retrofit. 
-- [KotDo](https://github.com/simonvar/KotDo) - Simple Kotlin project with TornadoFX. 
-- [MVC Store](https://github.com/simonvar/mvc-store) - PHP MVC online store 
-- [Meanders](https://github.com/simonvar/Meanders) - The problem of meanders.
-- [SmartCode](https://github.com/simonvar/SmartCode) - _Work In Progress_ 
-- [JetReddit](https://github.com/simonvar/JetReddit) - _Work In Progress_ 
+# SITE ON GLOBAL UPDATE
 
-## Learning
-- [Design Patterns](https://simonvar.github.io/JavaPatterns/) - Learning design patterns. (Java)
-- [Test-Driven Development](https://github.com/simonvar/TDDevelopment) - Learning TDD. (Java, Python)
-- [C Language](https://simonvar.github.io/c-language/) - The C Programming Language. Exercices. 
-
-## LETI Student's Works 
-- [C/C++ Base](https://github.com/simonvar/leti-programming) - Laboratory and course work. 
-- [Algorithms](https://github.com/simonvar/leti-algorithms) - Laboratory and course work.
+#### Projects
+- Number system converter [Google Play](https://goo.gl/pBhqqk)
 
 #### Contacts
 - [GitHub](https://github.com/simonvar)
