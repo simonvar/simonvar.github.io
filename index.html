@@ -1,24 +1,26 @@
 ---
-layout: default
+layout: page
+title: about
+permalink: /
 ---
 
-<div class="header-bar">
-  <h1>Simon V.</h1>
-  <h2>Android & Embedded Developer</h2>
-  <br/>
-  <hr>
-  <br/>
+<img class="col one right" src="/img/prof_pic.jpg">
+
+<br/>
+
+<h2> Android & Embedded Developer </h2>
+
+<br/>
+<hr/>
+<br/>
+<span class="contacticon center">
+	<a href="mailto:semavar3@gmail.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com/simonvar" target="_blank"><i class="fa fa-github-square"></i></a>
+    <a href="https://t.me/stritin" target="_blank"><i class="fa fa-telegram"></i></a>
+
+	<!-- <a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a> -->
+</span>
+
+<div class="col three caption">
+	You can even add a little note about which of these is the best way to reach you.
 </div>
-
-
-<ul class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
-        <p>{{ post.description }}</p>
-        <br/>
-        <hr/>
-      </li>
-    {% endfor %}
-</ul>
