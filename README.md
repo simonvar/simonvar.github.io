@@ -1,7 +1,3 @@
-# Simon V.
-#### Android Developer & Embedded Developer.   
-Develop on Java, Kotlin, C.
-
 # SITE ON GLOBAL UPDATE
 
 #### Projects
