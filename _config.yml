@@ -13,17 +13,6 @@ markdown: kramdown
 
 highlighter: rouge
 
-# Pagination
-paginate: 15
-paginate_path: "/blog/page:num/"
 
-
-collections:
-  portfolio:
-    output: true
-    permalink: /portfolio/:path/
-  publications:
-    output: true
-    permalink: /publications/:path/
 
 theme: jekyll-theme-cayman
