@@ -1,13 +1,7 @@
-# SITE ON GLOBAL UPDATE
-
 #### Projects
-- Number system converter [Google Play](https://goo.gl/pBhqqk)
+- Numer
 
 #### Contacts
-- [GitHub](https://github.com/simonvar)
-- [Telegram](https://web.telegram.org/#/im?p=@stritin) @stritin
+- [Telegram](https://web.telegram.org/#/im?p=@simonvar) @simonvar
 - [Email](mailto:semavar3@gmail.com) semavar3@gmail.com
 
-#### Thanks
-- [Dmitry Drobyshev](https://github.com/ItNoN) - all perfect CSS and HTML layouts
-- [Yaroslav Atroshenko](https://github.com/yaroslavok) - worked on SmartCode
