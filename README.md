@@ -1,7 +1,9 @@
-#### Projects
-- Numer
+### [Projects](/projects)
+### [Work Path](/work)
+### [Education & Science](/edu)
 
 #### Contacts
-- [Telegram](https://web.telegram.org/#/im?p=@simonvar) @simonvar
-- [Email](mailto:semavar3@gmail.com) semavar3@gmail.com
+- [telegram.org](https://web.telegram.org/#/im?p=@simonvar) @simonvar
+- [vk.com](https://vk.com/simonvar)
+- semavar3@gmail.com
 
