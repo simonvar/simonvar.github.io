@@ -1,18 +1,11 @@
 # Site settings
-title: simon v.
+title: Simon V.
 email: semavar3@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Android & Embedded Developer
-baseurl:  # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
-twitter_username: twitter_username
 github_username:  simonvar
 
 # Build settings
 markdown: kramdown
-
 highlighter: rouge
-
-
-
 theme: jekyll-theme-minimal
